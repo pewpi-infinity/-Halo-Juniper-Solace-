@@ -1,2 +1,24 @@
 # -Halo-Juniper-Solace-
 🧱 c13b0 | spintronics magnetic memory
+
+---
+
+## 🧱 Research Notes (docs)
+**Timestamp:** 2025-12-20T11:55:25Z
+
+### 🟨 Extracted Data
+- Repo files: 1
+- Code present: 0
+
+### 🩷 Investigative
+What is missing, blocked, or undefined in this repository.
+
+### 🟩 Engineering / Tools
+What scripts, modules, or tooling would advance this repo fastest.
+
+### 🟥 Routes Worth More
+Two concrete next build paths with reasoning.
+
+### 🟧 Decisions
+Immediate next step and why it matters.
+
